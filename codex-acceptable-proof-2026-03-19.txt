@@ -1,0 +1,1 @@
+fork-only validation marker for GitHub Actions acceptable-commands PoC
