@@ -1,1 +1,0 @@
-fork-only validation marker for GitHub Actions ASCII banner proof
